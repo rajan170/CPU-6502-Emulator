@@ -99,3 +99,6 @@ dkms.conf
 
 /build/
 checks.json
+/.vscode
+tempCodeRunnerFile.cpp
+/output/
